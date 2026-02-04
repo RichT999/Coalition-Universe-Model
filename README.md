@@ -10,3 +10,4 @@ This repository is organized into four primary functional areas:
 
 ---
 *This model is maintained as a deterministic engineering alternative to standard General Relativity.*
+Last updated: February 2026.
