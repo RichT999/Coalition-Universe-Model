@@ -1,0 +1,78 @@
+3. Collapse parameter 
+𝐶
+(
+𝑟
+)
+Define a scalar collapse parameter:
+
+𝐶
+(
+𝑟
+)
+=
+∣
+𝑔
+eff
+(
+𝑟
+)
+∣
+𝑔
+crit
+𝑔
+crit
+ is a characteristic threshold (set by your postulate scale).
+
+𝐶
+(
+𝑟
+)
+>
+1
+: collapse‑dominated.
+
+𝐶
+(
+𝑟
+)
+<
+1
+: non‑collapse / support‑dominated.
+
+This is where P‑01 (Collapse Duality) lives: same medium, two regimes.
+
+4. Halt radius condition 
+𝑟
+ℎ
+ (P‑04)
+Define the halt radius as:
+
+𝐶
+(
+𝑟
+ℎ
+)
+=
+1
+⇒
+∣
+𝑔
+eff
+(
+𝑟
+ℎ
+)
+∣
+=
+𝑔
+crit
+Inside 
+𝑟
+ℎ
+: collapse wins.
+Outside 
+𝑟
+ℎ
+: support (pressure, magnetic, etc.) can balance or dominate.
+
+This is your canonical halt radius definition in terms of MX + EOS‑X.
