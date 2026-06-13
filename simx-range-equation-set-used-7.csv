@@ -1,0 +1,8 @@
+﻿SIMX Range,Equation Set Used,EOS‑X Tag,MX Tag,R# Tag,Anchor / Role,Confirmation
+SIMX‑001…010,"R_s = \\dfrac{2GM}{c^2}",EOS‑0 (legacy neutral),MX‑0 (no field),R#‑L (legacy radius),Baseline curvature/radius anchor for non‑thermal comparison runs.,🟩 Green — legacy confirmed.
+SIMX‑011…025,"R_h(T) = \\dfrac{2GM}{c(T)^2}",EOS‑H (horizon‑linked),MX‑T (thermal field),R#‑H (halt/horizon radius),Thermal horizon radius in collapse‑native regimes; used for horizon mapping and equivalence zone extraction.,🟩 Green — coalition confirmed.
+SIMX‑026…035,E = mc^2,EOS‑E0 (energy legacy),MX‑0 (no field),R#‑N (Newtonian energy),Legacy energy anchor for GR comparison; not used for collapse suppression.,🟩 Green — experimental confirmed.
+SIMX‑036…055,E(T) = m(T)c(T)^2,EOS‑ET (thermal energy),MX‑T (thermal field),R#‑C (collapse energy radius),Dynamic energy field in temperature‑dependent collapse and extinction sweeps.,🟩 Green — coalition confirmed.
+SIMX‑056…070,"e(T) = \\dfrac{e_0}{1 - c(T)/c^*}",EOS‑C (collapse charge),MX‑Q (charge‑like field),R#‑Z (zero‑limit radius),Collapse charge amplifier; drives strict‑zero limit and extraction of T_c.,🟩 Green — mathematical confirmed.
+SIMX‑071…085,"c(T) = \\dfrac{1}{\\mu(T)e(T)^4}",EOS‑V (velocity field),MX‑F (field‑coupled speed),R#‑V (velocity‑linked radius),"Field‑dependent speed law; core in cutoff‑speed, extinction‑regime, and suppression‑zone mapping.",🟩 Green — coalition confirmed.
+SIMX‑086…095,"E = \\dfrac{m}{\\mu(T)e(T)}",EOS‑S (suppressed energy),MX‑S (suppression field),R#‑S (suppression radius),Suppressed‑energy channel for collapse‑native suppression and Coashome‑adjacent impedance tests.,🟩 Green — coalition confirmed.
